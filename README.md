@@ -5,7 +5,7 @@ I am learning Web Development at neue fische in the wonderful course muc-web-23-
 
 I love to try new stuff. Even if it is or maybe just because it is out of my comfort zone.
 
-![just wanna learn](https://pixabay.com/images/id-679014/)
+
 
 
 ## What have I done before?
